@@ -9,7 +9,6 @@ import android.widget.AdapterView;
 import android.widget.ListView;
 
 import java.util.ArrayList;
-
 public class MainActivity extends AppCompatActivity {
 ArrayList<VeriModeli> haberlist;
     ListView listView;
